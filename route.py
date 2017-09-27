@@ -18,7 +18,7 @@ def hello(event=None, context=None):
     if "token" not in request.form:
         return ""
 
-    if request.form["token"] != "ejEeHZVekon3Rt6hR9VlZYrI":
+    if request.form["token"] != "xxxx":
         return ""
 
     text = request.form["text"]
