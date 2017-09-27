@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "app_function": "route.app",
+        "slim_handler": true,
+        "aws_region": "us-east-1",
+        "s3_bucket": "zappa-0lxtt0foj"
+    }
+}
